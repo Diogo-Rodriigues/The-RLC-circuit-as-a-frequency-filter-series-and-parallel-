@@ -1,0 +1,2 @@
+# The-RLC-circuit-as-a-frequency-filter-series-and-parallel-
+This work aimed to analyze the behavior of RLC circuits, in resonance, both in series and in parallel. By assembling bandpass filters and due to the frequency response, the resonance frequency, bandwidth and quality of each circuit were determined. With these results, the equations that allow obtaining the theoretical values ​​were confirmed.
